@@ -1,7 +1,7 @@
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri= "spotifycloneui9.netlify.app";
+const redirectUri= "https://spotifycloneui9.netlify.app";
 
 const clientId = "4ce342be30a34b90a270f0a621808484";
 
